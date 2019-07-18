@@ -4,7 +4,6 @@
   flex-wrap: wrap;
   align-items: center;
 
-  position: fixed;
   left: 0px;
   width: 15vw;
   min-width: 200px;
@@ -16,6 +15,7 @@
 .profileSection {
   display: flex;
   flex-flow: column wrap;
+  background-color: #2e4f74;
 }
 .profilePhoto {
   width: 100px;
